@@ -1,5 +1,5 @@
 # Simple-Keylogger
-> 📜 A keylogger made in python with connection to discord webhooks for the purpose of learning
+**📜 A keylogger made in python with connection to discord webhooks for the purpose of learning**
 
 - ✅ Remember to replace the value of the "webhookURL" variable with the URL of your webhook.
 
